@@ -22,6 +22,7 @@
     Theme Background
   */
   --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-position: center center;
 
   /*
     Main Theme Color

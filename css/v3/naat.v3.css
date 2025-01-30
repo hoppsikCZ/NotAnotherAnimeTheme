@@ -10,7 +10,7 @@
 .appMount__51fd7 {
   background-image: var(--theme-background-image) !important;
   background-size: cover !important;
-  background-position: var(--theme-background-position);
+  background-position: var(--theme-background-position) !important;
 }
 
 .app__160d8 {
